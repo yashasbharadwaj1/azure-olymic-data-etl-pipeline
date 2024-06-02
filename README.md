@@ -62,6 +62,6 @@ This guided project by Darshil Parmar provides a comprehensive understanding of 
 
 ### Sources
 
-- [Azure Data Engineering](https://www.youtube.com/watch?v=IaA9YNlg5hM)
-- [Databricks and Data Factory](https://www.youtube.com/watch?v=nW0ffUW2vw4)
+- [Youtube video part1 ](https://www.youtube.com/watch?v=IaA9YNlg5hM)
+- [Youtube video part2 ](https://www.youtube.com/watch?v=nW0ffUW2vw4)
 
